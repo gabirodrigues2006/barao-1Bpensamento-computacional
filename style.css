@@ -5,3 +5,22 @@ body {
 .capa {
       width: 100%
 }
+
+
+.beneficios {
+text-align: left;
+background-color: rgb(0, 89, 255)
+}
+
+ul{
+      display: inline-block;
+      vertical-align: top;
+      margin-right:  200px;
+}
+li{ 
+      padding: 20px;
+      font-size: 18px;
+}
+.foto-beneficios {
+      width: 35%;
+}
